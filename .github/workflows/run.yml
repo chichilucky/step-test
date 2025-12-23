@@ -1,8 +1,8 @@
 name: 刷步数
 
-//on:
+于:
   schedule:
-//    - cron: '5 11 * * *'
+    - cron: '5 11 * * *'
   workflow_dispatch:
 
 jobs:
